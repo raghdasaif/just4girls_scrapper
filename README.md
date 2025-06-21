@@ -1,1 +1,1 @@
-# My Scrapy Project 
+# just4girls_scrapper
